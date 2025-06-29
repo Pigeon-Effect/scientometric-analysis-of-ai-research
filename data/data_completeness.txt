@@ -1,0 +1,26 @@
+| Variable                     | % Present | Meaning                                      |
+|------------------------------|-----------|----------------------------------------------|
+| id                           | 100.00%   | unique identifier                            |
+| publication_year             | 100.00%   | year of publication                          |
+| type                         | 100.00%   | type of document                             |
+| type_crossref                | 100.00%   | type according to CrossRef                   |
+| is_oa                        | 100.00%   | is open access                               |
+| countries_distinct_count     | 100.00%   | number of distinct countries in authorship   |
+| institutions_distinct_count  | 100.00%   | number of distinct institutions in authorship|
+| cited_by_count               | 100.00%   | number of citations                          |
+| cited_by_percentile_year     | 100.00%   | citation percentile for publication year     |
+| biblio                       | 100.00%   | bibliographic metadata                       |
+| title                        | 99.82%    | title of the work                            |
+| language                     | 99.77%    | language of the document                     |
+| authorships                  | 98.36%    | list of authorships                          |
+| abstract_inverted_index      | 84.47%    | index for abstract text search               |
+| fwci                         | 78.75%    | field weighted citation impact               |
+| referenced_works             | 76.33%    | list of referenced works                     |
+| host_organization_name       | 64.34%    | name of host organization                    |
+| source_issn_1                | 60.06%    | primary ISSN of source                       |
+| corresponding_author_ids     | 40.64%    | IDs of corresponding authors                 |
+| corresponding_institution_ids| 34.03%    | IDs of corresponding institutions            |
+| apc_list                     | 32.40%    | article processing charges list              |
+| apc_paid                     | 20.33%    | article processing charges paid              |
+| grants                       | 17.85%    | grants linked to the work                    |
+| relevance_score              | 0.00%     | relevance score                              |
