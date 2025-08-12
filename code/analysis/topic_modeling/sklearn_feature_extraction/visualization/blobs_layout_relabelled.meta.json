@@ -1,0 +1,34 @@
+{
+  "canvas_width": 1400,
+  "canvas_height": 1000,
+  "padding": 24.0,
+  "source_bbox": [
+    -1.481981168049122,
+    -2.4604850650568504,
+    10.917792816924559,
+    7.470315497278026
+  ],
+  "transform": {
+    "scale": 95.86336912360375,
+    "tx": 166.06770774692242,
+    "ty": 740.129611985341,
+    "yflip": true
+  },
+  "fd_params": {
+    "separation_enabled": true,
+    "fd_max_iters": 350,
+    "fd_step_size": 0.1,
+    "fd_overlap_gain": 1.2,
+    "fd_spring_k": 0.05,
+    "fd_damping": 0.95,
+    "fd_displacement_cap": 6.0,
+    "refine_enabled": false,
+    "refine_iters": 0,
+    "refine_step": 0.035,
+    "refine_spring_k": 0.03,
+    "refine_damping": 0.94,
+    "refine_disp_cap": 2.0
+  },
+  "notes": "Geometry is in layout (UMAP+separation) coordinates; unitless.",
+  "version": "layout-pack-v1"
+}
