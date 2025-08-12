@@ -1,0 +1,52 @@
+📌 Your current pipeline:
+1️⃣ Text → TF-IDF
+
+You convert each document to a sparse vector with thousands of features.
+
+High-dimensional but rich — preserves lots of subtle word co-occurrences.
+
+2️⃣ Clustering (KMeans) on TF-IDF
+
+KMeans tries to find spherical blobs in that high-dimensional space.
+
+It assumes clusters are linearly separable: points close in Euclidean space get grouped.
+
+3️⃣ Separately: UMAP for 2D visualization
+
+UMAP takes the same TF-IDF (optionally reduced with SVD) and projects it to 2D.
+
+UMAP tries to preserve local neighbor relationships, but nonlinearly.
+
+The 2D space is shaped to help human eyes see patterns, not to preserve every high-dimensional cluster boundary exactly.
+
+So:
+
+KMeans sees the full text geometry.
+
+UMAP shows you a human-friendly version of that geometry, but only approximately.
+
+You then color the UMAP plot with the KMeans labels.
+
+✅ Benefit of your approach:
+Clustering uses all the high-dimensional information.
+If your documents differ in subtle ways, KMeans can detect it. For example: two papers that look close in 2D might actually be distant in the full TF-IDF space.
+
+UMAP is only for visualization.
+It’s allowed to distort distances, to flatten your manifold into a picture you can understand.
+
+So in theory: your clusters are “truer” to the original semantic structure than if you cluster only on the 2D projection.
+
+
+This is exactly the resolution limit problem:
+
+Small k → broader, more general clusters → big topics (like “AI in Education”) stay intact, but you lose finer topics (like “Quantum AI” or “Sentiment Analysis”).
+
+Large k → more fine-grained clusters → tiny topics get singled out, but big ones may get chopped up into subclusters (like “Education AI” splitting into “AI Tutoring” + “AI Grading”).
+
+The core problem: real thematic structures are hierarchical — there are broad families, subfields, sub-subfields.
+
+Semi-supervised clustering: you inject domain knowledge to steer the shape.
+
+Seeded topic modeling: instead of letting topics emerge fully unsupervised, you provide seed words for the topics you care about.
+
+Human-in-the-loop clustering: the researcher uses human judgment to merge/split clusters based on interpretability.

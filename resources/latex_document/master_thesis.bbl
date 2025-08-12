@@ -1,0 +1,886 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{kim2022recent}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8a6fed2a8fc58d86c44cb35b8ffafa14}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sung\bibnamedelima Wook},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=64bec36164af62891336457121e303df}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Jun\bibnamedelima Ho},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=15b0d643493efb3f3a4971e0fade26bf}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sang\bibnamedelima Won},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f622f6009dee560922c99dca9b8a50d5}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Seungchul},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a8f8c752c2b1355c75a7a6a810f906d}
+      \strng{fullhash}{7e35248768bf56352168ea951ae60aca}
+      \strng{bibnamehash}{7a8f8c752c2b1355c75a7a6a810f906d}
+      \strng{authorbibnamehash}{7a8f8c752c2b1355c75a7a6a810f906d}
+      \strng{authornamehash}{7a8f8c752c2b1355c75a7a6a810f906d}
+      \strng{authorfullhash}{7e35248768bf56352168ea951ae60aca}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Precision Engineering and Manufacturing}
+      \field{title}{Recent Advances of Artificial Intelligence in Manufacturing Industrial Sectors: A Review}
+      \field{volume}{23}
+      \field{year}{2022}
+      \field{pages}{111\bibrangedash 129}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s12541-021-00506-9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s12541-021-00506-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s12541-021-00506-9
+      \endverb
+    \endentry
+    \entry{huang2018artificial}{article}{}
+      \name{author}{2}{}{%
+        {{hash=64a650ce8434ec0e9740b57c8d9109b6}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Ming-Hui},
+           giveni={M\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=84d7d46acad95fd0a025c301ca0a8194}{%
+           family={Rust},
+           familyi={R\bibinitperiod},
+           given={Roland\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f12695c1505365bb7b7abb45e45166d}
+      \strng{fullhash}{9f12695c1505365bb7b7abb45e45166d}
+      \strng{bibnamehash}{9f12695c1505365bb7b7abb45e45166d}
+      \strng{authorbibnamehash}{9f12695c1505365bb7b7abb45e45166d}
+      \strng{authornamehash}{9f12695c1505365bb7b7abb45e45166d}
+      \strng{authorfullhash}{9f12695c1505365bb7b7abb45e45166d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Service Research}
+      \field{number}{2}
+      \field{title}{Artificial Intelligence in Service}
+      \field{volume}{21}
+      \field{year}{2018}
+      \field{pages}{155\bibrangedash 172}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1177/1094670517752459
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/1094670517752459
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/1094670517752459
+      \endverb
+    \endentry
+    \entry{alkuwaiti2023review}{article}{}
+      \name{author}{8}{}{%
+        {{hash=0e000623512bebcfc91d4112b4e47773}{%
+           family={Al\bibnamedelima Kuwaiti},
+           familyi={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f06c410d2d14a29e844ce0679b195f8f}{%
+           family={Nazer},
+           familyi={N\bibinitperiod},
+           given={Khalid},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0cbc11609a59c2f4b1ae3678ae1562d5}{%
+           family={Al-Reedy},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Abdullah},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2d6ccf3bbb7bf1701db1cfec4ea0557b}{%
+           family={Al-Shehri},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Shaher},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8624b5de6a0e7b1b1a3e29db51f1293c}{%
+           family={Al-Muhanna},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={Afnan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=238fd94afd4905a37fdcf260e6470bad}{%
+           family={Subbarayalu},
+           familyi={S\bibinitperiod},
+           given={Arun\bibnamedelima Vijay},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=5c31180418f924ebf0e7831868bb1a7d}{%
+           family={Al\bibnamedelima Muhanna},
+           familyi={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Dhoha},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ebebfc50df1577ce9aae3da030551a99}{%
+           family={Al-Muhanna},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={Fahad\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d710d818395d61dceb9c82c1acc97c3d}
+      \strng{fullhash}{50fa7a905a3c6b38c33384f2e0415f68}
+      \strng{bibnamehash}{d710d818395d61dceb9c82c1acc97c3d}
+      \strng{authorbibnamehash}{d710d818395d61dceb9c82c1acc97c3d}
+      \strng{authornamehash}{d710d818395d61dceb9c82c1acc97c3d}
+      \strng{authorfullhash}{50fa7a905a3c6b38c33384f2e0415f68}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Personalized Medicine}
+      \field{number}{6}
+      \field{title}{A Review of the Role of Artificial Intelligence in Healthcare}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{pages}{951}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/jpm13060951
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/jpm13060951
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/jpm13060951
+      \endverb
+    \endentry
+    \entry{bahoo2024artificial}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d51f36445222ae4b1f527cb61f1b1676}{%
+           family={Bahoo},
+           familyi={B\bibinitperiod},
+           given={Salman},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2ef4f275f36ac142571615e818b9e53f}{%
+           family={Cucculelli},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8d1975c18614e2f1b7aae93cc2f1d311}{%
+           family={Goga},
+           familyi={G\bibinitperiod},
+           given={Xhoana},
+           giveni={X\bibinitperiod}}}%
+        {{hash=da9f329aac64a0cfb80185794cc4f948}{%
+           family={Mondolo},
+           familyi={M\bibinitperiod},
+           given={Jasmine},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{acf8c4fdb64a134ce1823e1a4788b26d}
+      \strng{fullhash}{b566ed988b710cf722ca962aa6f4a807}
+      \strng{bibnamehash}{acf8c4fdb64a134ce1823e1a4788b26d}
+      \strng{authorbibnamehash}{acf8c4fdb64a134ce1823e1a4788b26d}
+      \strng{authornamehash}{acf8c4fdb64a134ce1823e1a4788b26d}
+      \strng{authorfullhash}{b566ed988b710cf722ca962aa6f4a807}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SN Business \& Economics}
+      \field{title}{Artificial intelligence in Finance: a comprehensive review through bibliometric and content analysis}
+      \field{volume}{4}
+      \field{year}{2024}
+      \field{pages}{23}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s43546-024-00521-2
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/s43546-024-00521-2
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/s43546-024-00521-2
+      \endverb
+    \endentry
+    \entry{sabouri2024newgeopolitics}{article}{}
+      \name{author}{2}{}{%
+        {{hash=18534712c66cc7a640df8729f040f6ff}{%
+           family={Sabouri},
+           familyi={S\bibinitperiod},
+           given={Ziauddin\bibnamedelima Sami},
+           giveni={Z\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=c376916da84676500d4a3f97aaf56f0b}{%
+           family={Mehrdel},
+           familyi={M\bibinitperiod},
+           given={Behnam},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{14a9036001777174c7636da973734758}
+      \strng{fullhash}{14a9036001777174c7636da973734758}
+      \strng{bibnamehash}{14a9036001777174c7636da973734758}
+      \strng{authorbibnamehash}{14a9036001777174c7636da973734758}
+      \strng{authornamehash}{14a9036001777174c7636da973734758}
+      \strng{authorfullhash}{14a9036001777174c7636da973734758}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Contemporary International Relations and Foreign Policy Journal}
+      \field{title}{New Geopolitics of Artificial Intelligence and the Challenges of Global Governance}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.30489/cifj.2024.431044.1094
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.30489/cifj.2024.431044.1094
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.30489/cifj.2024.431044.1094
+      \endverb
+    \endentry
+    \entry{vance2023geopolitical}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1401725b354eaf42b8565575235980bc}{%
+           family={Vance},
+           familyi={V\bibinitperiod},
+           given={Taylor\bibnamedelima Rodriguez},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{1401725b354eaf42b8565575235980bc}
+      \strng{fullhash}{1401725b354eaf42b8565575235980bc}
+      \strng{bibnamehash}{1401725b354eaf42b8565575235980bc}
+      \strng{authorbibnamehash}{1401725b354eaf42b8565575235980bc}
+      \strng{authornamehash}{1401725b354eaf42b8565575235980bc}
+      \strng{authorfullhash}{1401725b354eaf42b8565575235980bc}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Published on 04-August-2023}
+      \field{title}{Geopolitical Implications of Artificial Intelligence in Cybersecurity: A Comprehensive Analysis}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.5281/zenodo.8214594
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.8214594
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.8214594
+      \endverb
+    \endentry
+    \entry{niu2016global}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ba8675f069f681181c717f904ba32448}{%
+           family={Niu},
+           familyi={N\bibinitperiod},
+           given={Jiqiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a249cce259828e622b9aec126007476a}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Wenwu},
+           giveni={W\bibinitperiod}}}%
+        {{hash=7b489e462941f869f448a19abc85df4b}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=549b41af5d5232fa082c9bbe9e33fd45}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod}}}%
+        {{hash=48b159425d814596c8a2b14d4c684a41}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Yanan},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc4eee0c35ce6fc1e70dbfb010ab665a}
+      \strng{fullhash}{34a08c10fa75374e732a2e3b6431d46c}
+      \strng{bibnamehash}{dc4eee0c35ce6fc1e70dbfb010ab665a}
+      \strng{authorbibnamehash}{dc4eee0c35ce6fc1e70dbfb010ab665a}
+      \strng{authornamehash}{dc4eee0c35ce6fc1e70dbfb010ab665a}
+      \strng{authorfullhash}{34a08c10fa75374e732a2e3b6431d46c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ISPRS International Journal of Geo-Information}
+      \field{number}{5}
+      \field{title}{Global Research on Artificial Intelligence from 1990–2014: Spatially-Explicit Bibliometric Analysis}
+      \field{volume}{5}
+      \field{year}{2016}
+      \field{pages}{66}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/ijgi5050066
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/ijgi5050066
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/ijgi5050066
+      \endverb
+    \endentry
+    \entry{schmallenbach2024global}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fba18d4877b6bef867b17d0e5696a64b}{%
+           family={Schmallenbach},
+           familyi={S\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=be72e4a60c5d723f74fe00936009f3d6}{%
+           family={Bärnighausen},
+           familyi={B\bibinitperiod},
+           given={Till\bibnamedelima W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=8c20fc25b83eb53549805a77478961dc}{%
+           family={Lerchenmueller},
+           familyi={L\bibinitperiod},
+           given={Marc\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{781c6db9cd71aef4c78c7000da624928}
+      \strng{fullhash}{781c6db9cd71aef4c78c7000da624928}
+      \strng{bibnamehash}{781c6db9cd71aef4c78c7000da624928}
+      \strng{authorbibnamehash}{781c6db9cd71aef4c78c7000da624928}
+      \strng{authornamehash}{781c6db9cd71aef4c78c7000da624928}
+      \strng{authorfullhash}{781c6db9cd71aef4c78c7000da624928}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Communications}
+      \field{title}{The global geography of artificial intelligence in life science research}
+      \field{volume}{15}
+      \field{year}{2024}
+      \field{pages}{7527}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41467-024-45187-1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41467-024-45187-1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41467-024-45187-1
+      \endverb
+    \endentry
+    \entry{mariani2023artificial}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8f2a12638f11a6a8a8cd4097dc344799}{%
+           family={Mariani},
+           familyi={M\bibinitperiod},
+           given={Marcello\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=71fd0bffd7caec09cc78527683519027}{%
+           family={Machado},
+           familyi={M\bibinitperiod},
+           given={Isa},
+           giveni={I\bibinitperiod}}}%
+        {{hash=facbac894a50cd8a79d94ced61ee4bce}{%
+           family={Magrelli},
+           familyi={M\bibinitperiod},
+           given={Vittoria},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3b06000f0e74ddc76d62f2d53dfed268}{%
+           family={Dwivedi},
+           familyi={D\bibinitperiod},
+           given={Yogesh\bibnamedelima K.},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f94067374ba6defd284292c8900ff15}
+      \strng{fullhash}{6182c28de0689fc09795102c0cc56946}
+      \strng{bibnamehash}{2f94067374ba6defd284292c8900ff15}
+      \strng{authorbibnamehash}{2f94067374ba6defd284292c8900ff15}
+      \strng{authornamehash}{2f94067374ba6defd284292c8900ff15}
+      \strng{authorfullhash}{6182c28de0689fc09795102c0cc56946}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Technovation}
+      \field{title}{Artificial intelligence in innovation research: A systematic review, conceptual framework, and future research directions}
+      \field{volume}{122}
+      \field{year}{2023}
+      \field{pages}{102623}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.technovation.2022.102623
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.technovation.2022.102623
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.technovation.2022.102623
+      \endverb
+    \endentry
+    \entry{almarzouqi2024comparative}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6b49c4248e553ad29722a1e6f2a50f73}{%
+           family={Al-Marzouqi},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={Ahmed\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=7e6b169a31d52b1faa9a40facc7698df}{%
+           family={Arabi},
+           familyi={A\bibinitperiod},
+           given={Alya\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c90e65e0d8032ee80912d0dcf702881e}
+      \strng{fullhash}{c90e65e0d8032ee80912d0dcf702881e}
+      \strng{bibnamehash}{c90e65e0d8032ee80912d0dcf702881e}
+      \strng{authorbibnamehash}{c90e65e0d8032ee80912d0dcf702881e}
+      \strng{authornamehash}{c90e65e0d8032ee80912d0dcf702881e}
+      \strng{authorfullhash}{c90e65e0d8032ee80912d0dcf702881e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Behavior and Emerging Technologies}
+      \field{title}{A Comparative Analysis of the Performance of Leading Countries in Conducting Artificial Intelligence Research}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1155/2024/1689353
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1155/2024/1689353
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1155/2024/1689353
+      \endverb
+    \endentry
+    \entry{cao2020international}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=41a980c54394f8ecd592d3adb686e0bd}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Jiajun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=31849f6b7de1cfa3b897ac2feb7f7ead}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuefen},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab461c13cf0d3324597df2d075c53562}
+      \strng{fullhash}{ab461c13cf0d3324597df2d075c53562}
+      \strng{bibnamehash}{ab461c13cf0d3324597df2d075c53562}
+      \strng{authorbibnamehash}{ab461c13cf0d3324597df2d075c53562}
+      \strng{authornamehash}{ab461c13cf0d3324597df2d075c53562}
+      \strng{authorfullhash}{ab461c13cf0d3324597df2d075c53562}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 ASIS\&T Asia-Pacific Regional Conference (Virtual Conference), Wuhan, China, December 12-13, 2020}
+      \field{note}{Received: August 15, 2020; Accepted: September 15, 2020}
+      \field{title}{International Cooperation Among Artificial Intelligence Research Teams Based on Regional Cooperation Models}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.2478/dim-2020-0036
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2478/dim-2020-0036
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2478/dim-2020-0036
+      \endverb
+      \keyw{Artificial Intelligence,Regional Cooperation,Research Teams}
+    \endentry
+    \entry{vinayak2023signatures}{article}{}
+      \name{author}{3}{}{%
+        {{hash=67e1bb04854aa1cf680e5effeb4cb010}{%
+           family={Vinayak},
+           familyi={V\bibinitperiod}}}%
+        {{hash=59490df19383ac527b26e872b3385565}{%
+           family={Raghuvanshi},
+           familyi={R\bibinitperiod},
+           given={Adarsh},
+           giveni={A\bibinitperiod}}}%
+        {{hash=04c16b507353f9e878e4a11644891792}{%
+           family={Kshitij},
+           familyi={K\bibinitperiod},
+           given={Avinash},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c10576d425b98447857598d55c51595f}
+      \strng{fullhash}{c10576d425b98447857598d55c51595f}
+      \strng{bibnamehash}{c10576d425b98447857598d55c51595f}
+      \strng{authorbibnamehash}{c10576d425b98447857598d55c51595f}
+      \strng{authornamehash}{c10576d425b98447857598d55c51595f}
+      \strng{authorfullhash}{c10576d425b98447857598d55c51595f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Informetrics}
+      \field{title}{Signatures of capacity development through research collaborations in artificial intelligence and machine learning}
+      \field{volume}{17}
+      \field{year}{2023}
+      \field{pages}{101358}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.joi.2023.101358
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S175115772300043X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S175115772300043X
+      \endverb
+    \endentry
+    \entry{alshebli2022beijing}{article}{}
+      \name{author}{6}{}{%
+        {{hash=6f2261817a1f89075414d268ed2bb368}{%
+           family={AlShebli},
+           familyi={A\bibinitperiod},
+           given={Bedoor},
+           giveni={B\bibinitperiod}}}%
+        {{hash=412bb39bb3884951ce02c57fc444a37f}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Enshu},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1bb71826eb343d0a87b9e65be2af8c77}{%
+           family={Waniek},
+           familyi={W\bibinitperiod},
+           given={Marcin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c18c43fa9bdcab0ac7401a69b1dcd39a}{%
+           family={Jagannathan},
+           familyi={J\bibinitperiod},
+           given={Ramesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=de6e129a644d563f175bcad28477448b}{%
+           family={Hernández-Lagos},
+           familyi={H\bibinithyphendelim L\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0f339937fb71b56808ae124e6a152d9e}{%
+           family={Rahwan},
+           familyi={R\bibinitperiod},
+           given={Talal},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{925e89bf63796bb153d1ef7ccc878276}
+      \strng{fullhash}{d4d1b5308a942a7a87790efe462307ab}
+      \strng{bibnamehash}{925e89bf63796bb153d1ef7ccc878276}
+      \strng{authorbibnamehash}{925e89bf63796bb153d1ef7ccc878276}
+      \strng{authornamehash}{925e89bf63796bb153d1ef7ccc878276}
+      \strng{authorfullhash}{d4d1b5308a942a7a87790efe462307ab}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{note}{Received: 02 March 2022; Accepted: 05 December 2022; Published: 12 December 2022}
+      \field{title}{Beijing’s central role in global artificial intelligence research}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{pages}{21461}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-022-25714-0
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41598-022-25714-0
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41598-022-25714-0
+      \endverb
+    \endentry
+    \entry{hu2020global}{article}{}
+      \name{author}{3}{}{%
+        {{hash=70a48ff0298c17cb7fe8df9c8de87da3}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Haotian},
+           giveni={H\bibinitperiod}}}%
+        {{hash=effec8abcde85b4f96b5399b9d65b0b6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Dongbo},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1f443c6d0fb4e47ae2928b68f7a32dfd}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Sanhong},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{46f4539d6fc12d5fc379021b13c7ac23}
+      \strng{fullhash}{46f4539d6fc12d5fc379021b13c7ac23}
+      \strng{bibnamehash}{46f4539d6fc12d5fc379021b13c7ac23}
+      \strng{authorbibnamehash}{46f4539d6fc12d5fc379021b13c7ac23}
+      \strng{authornamehash}{46f4539d6fc12d5fc379021b13c7ac23}
+      \strng{authorfullhash}{46f4539d6fc12d5fc379021b13c7ac23}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Data and Information Science}
+      \field{note}{Received: January 31, 2020; Revised: May 13, 2020; Accepted: June 11, 2020}
+      \field{number}{4}
+      \field{title}{Global Collaboration in Artificial Intelligence: Bibliometrics and Network Analysis from 1985 to 2019}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{pages}{86\bibrangedash 115}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.2478/jdis-2020-0027
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2478/jdis-2020-0027
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2478/jdis-2020-0027
+      \endverb
+    \endentry
+    \entry{ozkaya2023analysis}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4e832fb7bdce8c4dffa0c22c60aded77}{%
+           family={Ozkaya},
+           familyi={O\bibinitperiod},
+           given={Gokhan},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7b108b7eee65bb10fc17338ee18903b4}{%
+           family={Demirhan},
+           familyi={D\bibinitperiod},
+           given={Ayse},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cab15f6758332123b39291c1619f189e}
+      \strng{fullhash}{cab15f6758332123b39291c1619f189e}
+      \strng{bibnamehash}{cab15f6758332123b39291c1619f189e}
+      \strng{authorbibnamehash}{cab15f6758332123b39291c1619f189e}
+      \strng{authornamehash}{cab15f6758332123b39291c1619f189e}
+      \strng{authorfullhash}{cab15f6758332123b39291c1619f189e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainability}
+      \field{number}{5}
+      \field{title}{Analysis of Countries in Terms of Artificial Intelligence Technologies: PROMETHEE and GAIA Method Approach}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{4604}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/su15054604
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/su15054604
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/su15054604
+      \endverb
+    \endentry
+    \entry{openalex2023}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://openalex.org}}
+      \field{note}{Accessed: 2025-07-13}
+      \field{title}{OpenAlex: A fully open catalog of the global research system}
+      \field{year}{2023}
+    \endentry
+    \entry{baruffaldi2020identifying}{report}{}
+      \name{author}{7}{}{%
+        {{hash=aa97e0d7fe7fb828fdc5013ecd0d36f3}{%
+           family={Baruffaldi},
+           familyi={B\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8c2cb0696407dc809daa43389a60f3b1}{%
+           family={Beuzekom},
+           familyi={B\bibinitperiod},
+           given={Brigitte},
+           giveni={B\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=ed63224282cfef395eaf93348f6ecd1a}{%
+           family={Dernis},
+           familyi={D\bibinitperiod},
+           given={Hélène},
+           giveni={H\bibinitperiod}}}%
+        {{hash=481329d68db8b5f928caa424df6b0fb1}{%
+           family={Harhoff},
+           familyi={H\bibinitperiod},
+           given={Dietmar},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b249bfdb97cd9a7eaee7fc324df13c1a}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={Nandan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=29cc117ea3e7d1ea140c3126280c567e}{%
+           family={Rosenfeld},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2ba98389d99dfd39fa15a263afe62575}{%
+           family={Squicciarini},
+           familyi={S\bibinitperiod},
+           given={Mariagrazia},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {OECD Publishing}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{f7cd513982d9942c192a7d9ec4daeb63}
+      \strng{fullhash}{e9d05d1291df557759bbff8fa6fd7b52}
+      \strng{bibnamehash}{f7cd513982d9942c192a7d9ec4daeb63}
+      \strng{authorbibnamehash}{f7cd513982d9942c192a7d9ec4daeb63}
+      \strng{authornamehash}{f7cd513982d9942c192a7d9ec4daeb63}
+      \strng{authorfullhash}{e9d05d1291df557759bbff8fa6fd7b52}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{2020/05}
+      \field{title}{Identifying and measuring developments in artificial intelligence: Making the impossible possible}
+      \field{type}{OECD Science, Technology and Industry Working Papers}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1787/5f65ff7e-en
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1787/5f65ff7e-en
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1787/5f65ff7e-en
+      \endverb
+    \endentry
+    \entry{gargiulo2022cartography}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=5dd0f034633fd8f43edacb21db0d2fb2}{%
+           family={Gargiulo},
+           familyi={G\bibinitperiod},
+           given={Floriana},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e1bdb2dec08e147262b7a3f0ed7a7022}{%
+           family={Fontaine},
+           familyi={F\bibinitperiod},
+           given={Sylvain},
+           giveni={S\bibinitperiod}}}%
+        {{hash=28a1d9c5334f296006e9c5c7b16effd7}{%
+           family={Dubois},
+           familyi={D\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=80dc36d6f174333a91167a2ca8c5d9a8}{%
+           family={Tubaro},
+           familyi={T\bibinitperiod},
+           given={Paola},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{4486108ca2042e027dddeac510e37e71}
+      \strng{fullhash}{2e3b13dec71fda177f520fe167138c7b}
+      \strng{bibnamehash}{4486108ca2042e027dddeac510e37e71}
+      \strng{authorbibnamehash}{4486108ca2042e027dddeac510e37e71}
+      \strng{authornamehash}{4486108ca2042e027dddeac510e37e71}
+      \strng{authorfullhash}{2e3b13dec71fda177f520fe167138c7b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{physics.soc-ph}
+      \field{eprinttype}{arXiv}
+      \field{title}{A meso-scale cartography of the AI ecosystem}
+      \field{year}{2022}
+      \verb{eprint}
+      \verb 2212.12263
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2212.12263
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2212.12263
+      \endverb
+    \endentry
+    \entry{bulatov2024determination}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=4d85b6f82a86d65f622f42008829036b}{%
+           family={Bulatov},
+           familyi={B\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2bf2294610f13960a92368314fe30266}{%
+           family={Alekseev},
+           familyi={A\bibinitperiod},
+           given={Vasiliy},
+           giveni={V\bibinitperiod}}}%
+        {{hash=998215766d630a30bc86411d52c460c3}{%
+           family={Vorontsov},
+           familyi={V\bibinitperiod},
+           given={Konstantin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Cham}%
+      }
+      \strng{namehash}{15cfcf8392eed1699aea276fef1713e5}
+      \strng{fullhash}{15cfcf8392eed1699aea276fef1713e5}
+      \strng{bibnamehash}{15cfcf8392eed1699aea276fef1713e5}
+      \strng{authorbibnamehash}{15cfcf8392eed1699aea276fef1713e5}
+      \strng{authornamehash}{15cfcf8392eed1699aea276fef1713e5}
+      \strng{authorfullhash}{15cfcf8392eed1699aea276fef1713e5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Recent Trends in Analysis of Images, Social Networks and Texts. AIST 2023. Communications in Computer and Information Science}
+      \field{note}{Also available as arXiv preprint arXiv:2406.10402 [cs.CL]}
+      \field{title}{Determination of the Number of Topics Intrinsically: Is It Possible?}
+      \field{volume}{1905}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/978-3-031-67008-4_1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-031-67008-4_1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-031-67008-4_1
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{REE}
+  \missing{REF}
+\endrefsection
+\endinput
+
