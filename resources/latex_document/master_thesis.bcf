@@ -2367,25 +2367,44 @@
     <bcf:citekey order="4" intorder="1">bahoo2024artificial</bcf:citekey>
     <bcf:citekey order="5" intorder="1">sabouri2024newgeopolitics</bcf:citekey>
     <bcf:citekey order="6" intorder="1">vance2023geopolitical</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">niu2016global</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">schmallenbach2024global</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">mariani2023artificial</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">ozkaya2023analysis</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">almarzouqi2024comparative</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">hellwig2019ai</bcf:citekey>
     <bcf:citekey order="10" intorder="1">almarzouqi2024comparative</bcf:citekey>
-    <bcf:citekey order="10" intorder="2">cao2020international</bcf:citekey>
-    <bcf:citekey order="10" intorder="3">vinayak2023signatures</bcf:citekey>
-    <bcf:citekey order="10" intorder="4">alshebli2022beijing</bcf:citekey>
-    <bcf:citekey order="10" intorder="5">hu2020global</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">ozkaya2023analysis</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">openalex2023</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">REF</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">REF</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">REF</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">REF</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">REF</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">REE</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">baruffaldi2020identifying</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">gargiulo2022cartography</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">bulatov2024determination</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">gargiulo2022cartography</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">righi2020ai</bcf:citekey>
+    <bcf:citekey order="12" intorder="2">yu2023discovering</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">almarzouqi2024comparative</bcf:citekey>
+    <bcf:citekey order="13" intorder="2">ozkaya2023analysis</bcf:citekey>
+    <bcf:citekey order="13" intorder="3">hellwig2019ai</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">niu2016global</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">schmallenbach2024global</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">mariani2023artificial</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">almarzouqi2024comparative</bcf:citekey>
+    <bcf:citekey order="17" intorder="2">cao2020international</bcf:citekey>
+    <bcf:citekey order="17" intorder="3">vinayak2023signatures</bcf:citekey>
+    <bcf:citekey order="17" intorder="4">alshebli2022beijing</bcf:citekey>
+    <bcf:citekey order="17" intorder="5">hu2020global</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">niu2016global</bcf:citekey>
+    <bcf:citekey order="18" intorder="2">klinger2020narrowing</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">openalex2023</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Maddi2025GeographicalDisciplinaryCoverage</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Culbert2025ReferenceCoverageAnalysis</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Maddi2025GeographicalDisciplinaryCoverage</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Visser2021LargeScaleComparison</bcf:citekey>
+    <bcf:citekey order="23" intorder="2">cespedes2025evaluating</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">alperin2024analysis</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Maddi2025GeographicalDisciplinaryCoverage</bcf:citekey>
+    <bcf:citekey order="25" intorder="2">Culbert2025ReferenceCoverageAnalysis</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Culbert2025ReferenceCoverageAnalysis</bcf:citekey>
+    <bcf:citekey order="26" intorder="2">alperin2024analysis</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">baruffaldi2020identifying</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">gargiulo2022cartography</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">baruffaldi2020identifying</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">gargiulo2022cartography</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">cohan2020specter</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">pedregosa2011scikit</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">bulatov2024determination</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
